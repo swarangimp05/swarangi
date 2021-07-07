@@ -1,0 +1,9 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Martel:wght@200&display=swap');
+body {
+  margin: 0;
+  font-family: 'Philosopher', cursive, serif !important;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-image: linear-gradient(to left,rgb(202, 71, 71), rgb(0 0 0));
+}
